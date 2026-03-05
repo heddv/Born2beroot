@@ -22,11 +22,6 @@ Then Virtual Box (or any equivalent software), click on "New", and configure the
 ### Useful commands
 - `lsblk` : displays information about block devices and encrypted partitions.
 
-### Test result exemple
-```bash
-
-```
-
 # Resources
 To better understand the many bash commands and their specific purposes, AI was used to help deepen our understanding whenever an issue was encountered.
 
@@ -36,9 +31,9 @@ Other resources :
 - Setting strong [password policy](https://www.server-world.info/en/note?os=Debian_10&p=password)
 
 # Project Description
-Debian system is better to work with, that's why i chose it.
+I already work with Debian system and it's beginner friendly which is why i think it is a better choice.
 
-- Debian vs Rocky Linux
-- AppArmor vs SELinux
-- UFW vs firewalld
-- VirtualBox vs UTM
+- **Debian vs Rocky Linux :** Debian is more reliable and has a lot of packages, while Rocky is a clone of RHEL.
+- **AppArmor vs SELinux :** SELinux is very strong but is coplex to use, whereas AppArmor is easier but is less flexible.
+- **UFW vs firewalld :**
+- **VirtualBox vs UTM :**
