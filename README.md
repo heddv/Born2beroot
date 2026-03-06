@@ -5,7 +5,11 @@ The project consists of setting up a server while following specific requirement
 
 # Project structure
 ```bash
-tree
+.
+├── README.md
+└── signature.txt
+
+0 directories, 2 files
 ```
 
 - `monitoring.sh` is a script that contains all the commands used to display information about our virtual machine every 10 minutes (using crontab).
